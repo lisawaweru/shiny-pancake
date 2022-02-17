@@ -1,0 +1,17 @@
+{
+  "name": "classes-continued",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lisawaweru",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "input": "^1.0.1",
+    "install": "^0.13.0"
+  }
+}
